@@ -2,6 +2,13 @@
 
 > 本项目使用小程序框架mpvue扩展的微信小程序，内容包括进制数值转换，几何面积计算，生辰八字测算等计算工具。
 
+## 项目运行
+
+  git clone https://github.com/tujindong/miniCalculator.git
+  cd miniCalculator_master(进入项目)
+  npm install (安装依赖包)
+  npm start (启动服务)
+
 ## 扫码体验
 ![小程序码](./static/images/qrcode.jpg)
 
@@ -10,6 +17,9 @@
 ### [Live demo](https://codepen.io/steveliao/pen/eEPwda)
 
 ![shopping-cart-preview](img/preview.png)
+
+## 目录结构
+
 
 ## 功能
 
@@ -26,3 +36,11 @@
 - 三角形角度、边长、面积、周长计算
 - 多边形面积、周长计算
 - 生辰八字测算，农历、五行、方位、星座、生肖测算
+
+****
+	
+|Author|涂小图|
+|---|---
+|E-mail|1965382331@qq.com
+
+****
