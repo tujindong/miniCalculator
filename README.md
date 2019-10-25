@@ -21,7 +21,24 @@
 ![shopping-cart-preview](img/preview.png)
 
 ## 目录结构
-
+```
+miniCalculator
+├── package.json
+├── project.config.json       
+├── static            
+├── src
+│    ├── pages
+|          ├── index
+|          ├── about
+│    ├── utils
+│    ├── App.vue
+│    └── main.js
+├── config
+│   ├── index.js
+│   ├── dev.env.js
+│   └── prod.env.js
+└── build
+```
 
 ## 功能
 
