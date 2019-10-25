@@ -22,22 +22,24 @@
 
 ## 目录结构
 ```
-miniCalculator
-├── package.json
-├── project.config.json       
-├── static            
-├── src
-│    ├── pages
-|          ├── index
-|          ├── about
-│    ├── utils
-│    ├── App.vue
-│    └── main.js
-├── config
-│   ├── index.js
-│   ├── dev.env.js
-│   └── prod.env.js
-└── build
+  miniCalculator
+  ├── package.json //项目的主配置文件，里面包含了mpvue项目的基本描述信息、项目所依赖的各种第三方库以及版本信息、以及可执行的脚本信息
+  ├── project.config.json       
+  ├── static            
+  ├── src
+  │    ├── pages
+  |    │     ├── index
+  |    │     ├── about
+  |    │     ├── modules
+  │    |     └── components
+  │    ├── utils
+  │    ├── App.vue
+  │    └── main.js
+  ├── config
+  │   ├── index.js
+  │   ├── dev.env.js
+  │   └── prod.env.js
+  └── build
 ```
 
 ## 功能
