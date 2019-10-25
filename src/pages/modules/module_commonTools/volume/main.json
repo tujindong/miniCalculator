@@ -1,0 +1,7 @@
+{
+    "usingComponents": {
+        "van-picker": "../../../../../static/vant-weapp/picker/index",
+        "van-popup": "../../../../../static/vant-weapp/popup/index",
+        "van-field": "../../../../../static/vant-weapp/field/index"
+    }
+}

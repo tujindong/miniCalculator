@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/about/main",
+    "pages/modules/module_commonTools/angToRad/main",
+    "pages/modules/module_commonTools/sysConvert/main",
+    "pages/modules/module_commonTools/volume/main",
+    "pages/modules/module_commonTools/area/main",
+    "pages/modules/module_commonTools/length/main",
+    "pages/modules/module_commonTools/weight/main",
+    "pages/modules/module_commonTools/temperature/main",
+    "pages/modules/module_commonTools/energy/main",
+    "pages/modules/module_calcTools/circle/main",
+    "pages/modules/module_calcTools/rectangle/main",
+    "pages/modules/module_calcTools/triangle/main",
+    "pages/modules/module_calcTools/polygon/main",
+    "pages/modules/module_calcTools/character/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#4a8cff",
+    "navigationBarTitleText": "小算包",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#5e6b80",
+    "backgroundColor": "#ffffff",
+    "selectedColor": "#282c32",
+    "borderStyle": "white",
+
+    "list": [
+        {
+            "text": "工具",
+            "pagePath": "pages/index/main",
+            "iconPath": "static/tabs/appStore_fill_light.png",
+            "selectedIconPath": "static/tabs/appStore_fill_dark.png"
+        },
+        {
+            "text": "关于",
+            "pagePath": "pages/about/main",
+            "iconPath": "static/tabs/icon_about_lighter.png",
+            "selectedIconPath": "static/tabs/icon_about_dark.png"
+        }
+    ],
+    "position": "bottom"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "usingComponents":{
+        "van-field": "../../../../../static/vant-weapp/field/index",
+        "van-toast": "../../../../../static/vant-weapp/toast/index",
+        "van-tab": "../../../../../static/vant-weapp/tab/index",
+        "van-tabs": "../../../../../static/vant-weapp/tabs/index",
+        "van-stepper": "../../../../../static/vant-weapp/stepper/index"
+    }
+}

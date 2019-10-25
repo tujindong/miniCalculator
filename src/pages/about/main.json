@@ -1,0 +1,5 @@
+{
+    "usingComponents":{
+        "van-transition": "../../../static/vant-weapp/transition/index"
+    }
+}
