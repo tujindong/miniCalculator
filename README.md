@@ -4,10 +4,12 @@
 
 ## 项目运行
 
+```
   git clone https://github.com/tujindong/miniCalculator.git
   cd miniCalculator_master(进入项目)
   npm install (安装依赖包)
   npm start (启动服务)
+```
 
 ## 扫码体验
 ![小程序码](./static/images/qrcode.jpg)
