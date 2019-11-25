@@ -14,6 +14,12 @@
 ## 扫码体验
 ![小程序码](./static/images/qrcode.jpg)
 
+## 内容示例
+![功能列表](./static/images/page_home.jpg)
+![多边形计算](./static/images/page_polygon.jpg)
+![三角形计算](./static/images/page_triangle.jpg)
+![进制转换](./static/images/page_trans.jpg)
+
 ## 目录结构
 ```
   miniCalculator
